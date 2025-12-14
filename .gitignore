@@ -1,0 +1,20 @@
+# env
+.env
+.env.*
+
+# python
+__pycache__/
+*.pyc
+
+# node
+node_modules/
+
+# whatsapp session / chromium profile (NUNCA subir)
+tokens/
+
+# local db
+vexia.db
+*.db
+
+# logs
+*.log
